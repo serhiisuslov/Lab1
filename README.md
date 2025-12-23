@@ -13,4 +13,7 @@
 
 <img width="1065" height="513" alt="image" src="https://github.com/user-attachments/assets/c6345a1d-0df2-4491-963d-c565e42c516a" />
 
+Завдання 4. [Medium] Обробка заголовків запиту. В залежності від значення параметру заголовку “Content-Type” (application/json чи application/xml) повертати json чи xml документ. У разі відсутності - повертати звичайний текст.
+
+<img width="735" height="208" alt="image" src="https://github.com/user-attachments/assets/a3b7f776-68de-4c2b-89d8-4d8691fb6844" />
 
