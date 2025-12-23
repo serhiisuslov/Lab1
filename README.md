@@ -9,3 +9,8 @@
 
 <img width="1424" height="680" alt="image" src="https://github.com/user-attachments/assets/f121ede2-185c-4bc3-ac0c-4cd8f73def7d" />
 
+Завдання 3. [Easy-Medium] Побудувати графік зміни курсів валют за допомогою бібліотеки matplotlib
+
+<img width="1065" height="513" alt="image" src="https://github.com/user-attachments/assets/c6345a1d-0df2-4491-963d-c565e42c516a" />
+
+
